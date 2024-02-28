@@ -1,12 +1,12 @@
 # OpenPortalzZ
 
 <div align="center">
-
 [Click Here to Download ![Game Poster](https://img.itch.zone/aW1hZ2UvMjU1NDYyOC8xNTIwMjQ1Ny5wbmc=/original/xVwaAQ.png)](https://somebaryy.itch.io/openportalzzz)
-<p></p>
-[![Screenshot](https://github.com/Amon20044/OpenPortalzZ/assets/111745899/b385f444-2a5a-438c-808c-bfed400a3d0e)](https://youtu.be/iDiE5rCbARY?si=dGS8LImom_0YzhsL)
-
 </div>
+[![Screenshot (64)](https://github.com/Amon20044/OpenPortalzZ/assets/111745899/b385f444-2a5a-438c-808c-bfed400a3d0e)
+](https://youtu.be/iDiE5rCbARY?si=dGS8LImom_0YzhsL)
+
+
 
 
 Explore diverse landscapes, transcend reality. Race friends, feel adrenaline. Merge reality with fantasy. Navigate effortlessly with innovative portals, redefining arcade racing.
