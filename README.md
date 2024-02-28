@@ -1,7 +1,8 @@
 # OpenPortalzZ
 
-[![Game Poster](thumbnail_image_url)](https://somebaryy.itch.io/openportalzzz)
-[![Watch the video](video_thumbnail_image_url)](https://youtu.be/iDiE5rCbARY?si=dGS8LImom_0YzhsL)
+[![Game Poster]()](https://somebaryy.itch.io/openportalzzz)
+[![Watch the video](![Screenshot (64)](https://github.com/Amon20044/OpenPortalzZ/assets/111745899/b385f444-2a5a-438c-808c-bfed400a3d0e)
+)](https://youtu.be/iDiE5rCbARY?si=dGS8LImom_0YzhsL)
 
 Explore diverse landscapes, transcend reality. Race friends, feel adrenaline. Merge reality with fantasy. Navigate effortlessly with innovative portals, redefining arcade racing.
 
@@ -21,3 +22,6 @@ Utilize innovative portal systems to seamlessly traverse between worlds, making 
 
 **Redefined Arcade Racing:**
 Experience the evolution of arcade racing, where every twist and turn redefines the boundaries of excitement and adventure.
+
+## Tech Stack
+Unity , C# , Blender
